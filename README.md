@@ -1,12 +1,88 @@
-<h1 align="center">Olá 👋, eu sou Yannick Soares Cruz</h1>
-<h3 align="center">Atualmente estudando desenvolvimento web (Full-Stack)</h3>
+<div align="center">
+  
+# 👋 Olá! Eu sou Yannick Soares Cruz
 
-- 📫 Como me contatar **yannickcruz02@gmail.com**
+### 💻 Desenvolvedor Full-Stack em Formação
 
-<h3 align="left">Conecte-se</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yannick-soares-cruz-44290123b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yannick-soares-cruz" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+PostgreSQL;Apaixonado+por+tecnologia!" alt="Typing SVG" />
 
-<h3 align="left">Linguagens:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Desenvolvedor Full-Stack focado em criar aplicações web modernas e funcionais. Apaixonado por aprender novas tecnologias e resolver problemas através do código [web:2][web:10].
+
+- 🔭 Atualmente trabalhando em projetos com **React** e **Node.js**
+- 🌱 Estudando **PostgreSQL** e aprofundando conhecimentos em **Full-Stack Development**
+- 💡 Interesse em desenvolvimento de interfaces interativas e APIs robustas
+- 🎯 Objetivo: Tornar-me um desenvolvedor Full-Stack completo
+- 📫 Contato: **yannickcruz02@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<div align="center">
+  
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+
+</div>
+
+### Backend
+<div align="center">
+  
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+</div>
+
+### Ferramentas & Outros
+<div align="center">
+  
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-soares-cruz-44290123b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannickcruz02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME_AQUI)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 "O código é poesia em movimento"
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=58A6FF&style=flat-square&label=Visitantes+do+Perfil)
+
+</div>

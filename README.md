@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full-Stack focado em criar aplicações web modernas e funcionais. Apaixonado por aprender novas tecnologias e resolver problemas através do código [web:2][web:10].
+Desenvolvedor Full-Stack focado em criar aplicações web modernas e funcionais. Gosto de aprender novas tecnologias e resolver problemas através do código.
 
 - 🔭 Atualmente trabalhando em projetos com **React** e **Node.js**
 - 🌱 Estudando **PostgreSQL** e aprofundando conhecimentos em **Full-Stack Development**
@@ -72,16 +72,14 @@ Desenvolvedor Full-Stack focado em criar aplicações web modernas e funcionais.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-soares-cruz-44290123b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannickcruz02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yannickcruz)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 "O código é poesia em movimento"
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=58A6FF&style=flat-square&label=Visitantes+do+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=yannickcruz&color=58A6FF&style=flat-square&label=Visitantes+do+Perfil)
 
 </div>

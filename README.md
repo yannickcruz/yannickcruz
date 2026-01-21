@@ -23,33 +23,21 @@ Desenvolvedor Full-Stack focado em criar aplicações web modernas e funcionais.
 ---
 
 ## 🛠️ Tech Stack
-
-### Frontend
 <div align="center">
   
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-
-</div>
-
-### Backend
-<div align="center">
-  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-</div>
-
-### Ferramentas & Outros
-<div align="center">
-  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+
 
 </div>
+
+  
 
 ---
 

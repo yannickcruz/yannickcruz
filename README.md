@@ -22,17 +22,6 @@
 
 ## ⚡ Sobre Mim
 
-```python
-developer = {
-    "nome":       "Yannick Soares Cruz",
-    "role":       "Full-Stack Developer em Formação",
-    "foco":       ["APIs REST", "Interfaces Modernas", "Análise de Dados"],
-    "atualmente": ["React", "Node.js", "Python FastAPI", "Pandas"],
-    "objetivo":   "Construir soluções completas — do banco de dados à UI",
-    "contato":    "yannickcruz02@gmail.com",
-}
-```
-
 - 🔭 Desenvolvendo projetos com **React**, **Node.js** e **Python FastAPI**
 - 🌱 Aprofundando em **PostgreSQL**, **Pandas** e **Full-Stack Development**
 - 💡 Interesse em APIs robustas, interfaces interativas e pipelines de dados

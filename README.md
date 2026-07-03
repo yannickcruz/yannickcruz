@@ -74,14 +74,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yannickcruz&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
@@ -90,6 +82,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yannickcruz&color=58A6FF&style=flat-square&label=Visitantes+do+Perfil)
 
-**"Código é poesia — escreva com intenção."**
 
 </div>

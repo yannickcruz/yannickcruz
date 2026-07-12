@@ -57,16 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yannickcruz&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)
-
-</div>
-
----
-
 ---
 
 <div align="center">

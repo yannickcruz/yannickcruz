@@ -63,7 +63,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f3a,100:0D1117&height=80&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yannickcruz&color=58A6FF&style=flat-square&label=Visitantes+do+Perfil)
-
 
 </div>
